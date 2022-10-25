@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> I'm Shivam 😁</h2>
+<h2> I'm Uriel Solís 😁</h2>
 <!--
 **euss99/euss99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
