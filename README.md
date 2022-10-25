@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
-- 🔧 &nbsp; Git | GitHub | Linux
+- 🔧 &nbsp; Git | GitHub | Ubuntu
 - 🖥 &nbsp; Figma | Photoshop
 
 <h3> 🤝🏻 Connect with Me </h3>
