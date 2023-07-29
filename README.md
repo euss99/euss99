@@ -35,10 +35,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/efrain uriel solis salinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efrain uriel solis salinas" height="30" width="40" /></a>
-<a href="https://fb.com/uriel solis salinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel solis salinas" height="30" width="40" /></a>
-<a href="https://instagram.com/uriel139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uriel139" height="30" width="40" /></a>
-<a href="https://discord.gg/uriel solís salinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uriel solís salinas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/efrainsolissalinas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efrain uriel solis salinas" height="30" width="40" /></a>
+<a href="https://www.facebook.com/urielsoliss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel solis salinas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/uriel139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uriel139" height="30" width="40" /></a>
 </p>
-
-
