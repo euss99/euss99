@@ -50,7 +50,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/efrainsolissalinas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efrain uriel solis salinas" height="30" width="40" /></a>
-<a href="https://www.facebook.com/urielsoliss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel solis salinas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/uriel139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uriel139" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/efrainsolissalinas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.instagram.com/uriel139/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23955158.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="https://www.facebook.com/urielsoliss" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+ <a href="mailto:urielsolissalinas@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
