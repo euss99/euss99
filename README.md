@@ -30,7 +30,6 @@
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCD34?style=flat-square&logo=firebase&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FE6C37?style=flat-square&logo=postman&logoColor=white" />
