@@ -21,6 +21,8 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-37BCF8?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-0162C3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-569DC8?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-9763FE?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
@@ -28,8 +30,9 @@
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCD34?style=flat-square&logo=firebase&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FE6C37?style=flat-square&logo=postman&logoColor=white" />
     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
@@ -38,6 +41,8 @@
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-E2432A?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-EB4B1D?style=flat-square&logo=figma&logoColor=white" />
 </p>
